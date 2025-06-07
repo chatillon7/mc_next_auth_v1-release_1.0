@@ -49,7 +49,7 @@ Sunucuyu başlatın:
    ```
 
 
-## Temiz Build (Production için)
+## Temiz Build (Derleme yayımladıktan sonra tekrar sıfır bir kurulum için)
 
 Temiz bir production build için aşağıdaki adımları izleyin:
 
