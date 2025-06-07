@@ -38,6 +38,14 @@ Derleme ve çalıştırmak için aşağıdaki adımları izleyin:
    npm start
    ```
 
+5. ADMIN hesap bilgileri:
+   
+   ```
+   Kullanıcı Adı: admin
+   E-Posta Adresi: admin@admin.com
+   Parola: admin
+   ```
+
 Bu adımlardan sonra derleme oluşacaktır, derlemenize .env dosyasındaki BASE_URL üzerinden ulaşabilirsiniz.
 Sunucuyu bir kere derledikten sonra, tekrar derlemenize gerek yoktur. Kapatmak için CTRL + C tuşlarına aynı anda basmanız yeterlidir.
 Sunucunuzu tekrar açmak istediğiniz takdirde:
