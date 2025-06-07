@@ -1,0 +1,19 @@
+{
+  "logo": "",
+  "favicon": "",
+  "tabTitle": "",
+  "footerCompany": "",
+  "github": "",
+  "xbox": "",
+  "instagram": "",
+  "discord": "",
+  "ip": "",
+  "carouselImages": [
+    "slide1.png",
+    "slide2.png",
+    "slide3.png"
+  ],
+  "aboutContent": "Merhaba ve [Sunucu Adı]'na hoş geldiniz!\n\nMinecraft dünyasında sıradanlıktan sıkıldıysanız, doğru yerdesiniz. Biz, oyuncuların yalnızca bir sunucuya değil; bir topluluğa, bir hikâyeye, bir deneyime katılmasını isteyen tutkulu bir ekibiz. Bu projeye başlarken amacımız, herkesin kendine ait bir yer bulabileceği, özgürce inşa edebileceği, dostluklar kurabileceği ve kalıcı hatıralar biriktirebileceği bir ortam yaratmaktı.\n\nKimiz?\nBizler, Minecraft’ı sadece bir oyun değil, yaratıcılığın ve topluluğun gücüyle birleşen dijital bir evren olarak gören geliştiriciler, moderatörler ve oyuncularız. Sunucumuzun temelleri, dürüstlük, adalet ve eğlence üzerine kurulmuştur. Her bir detayda, oyuncuların beklentilerini aşacak bir deneyim sunmayı hedefliyoruz.\n\nNeden Biz?\nSıfırdan inşa edilen özel sistemler\nPlugin'lerimizin çoğu özel olarak yazıldı. Oyuncu deneyimini maksimuma çıkarmak için klasik sistemleri geliştirerek, benzersiz içerikler sunduk.\n\nGüçlü ekonomi ve adil rekabet\nPiyasa sisteminden PvP dengelemesine kadar her şey titizlikle ayarlandı. Her oyuncunun emeği değerli, her başarı gerçek.\n\nEtkin topluluk ve aktif yönetim\nHer mesajınız okunur, her öneriniz değerlendirilir. Oyuncularla sürekli iletişimde kalan, şeffaf ve çözüm odaklı bir yönetim anlayışımız var.\n\nSınır tanımayan özgürlük\nKlanlar, savaşlar, ticaret, mimari yapılar ve daha fazlası... Hayal gücünüzle sınırları zorlayabileceğiniz bir dünyadayız.\n\nGelecek Vizyonumuz\n[Sunucu Adı], sadece bugün için değil, gelecek için kuruldu. Yeni oyun modları, zenginleştirilmiş içerikler, oyuncuların yön vereceği etkinlikler ve daha fazlası yolda. Her gün gelişiyor, her öneriyle daha da büyüyoruz.\n\nBize Katıl\nSen de bu topluluğun bir parçası olmak istiyorsan, bekleme.\nBir kazmayı al, ilk taşını koy ve kendi hikâyeni yazmaya başla.\n\n[Sunucu IP’si]\n[Discord Linki]\n[Destek ve İletişim]\n\nBirlikte inşa edelim.\nBirlikte oynayalım.\nBirlikte büyüyelim.",
+  "backgroundColor": "rgba(38,42,102,0.7)",
+  "backgroundImage": "bg.jpg"
+}

@@ -1,0 +1,62 @@
+html, body {
+  max-width: 100vw;
+  overflow-x: hidden !important;
+}
+
+* {
+  font-family: 'Proxima Nova', monospace !important;
+  font-weight: 700 !important;
+}
+
+@media (max-width: 576px) {
+  .container-fluid, .row {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+
+.bg-transparent {
+  background-color: rgba(20, 20, 20, 0.7) !important;
+}
+
+span.badge i, span.badge .bi {
+  position: relative;
+  top: 1px;
+}
+
+.btn-sm i, .btn-sm .bi {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.table-responsive, .table-wrap {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.table-scroll-x {
+  overflow-x: auto;
+  width: 100%;
+  max-width: 100vw;
+}
+
+.table-scroll-x table {
+  width: 100%;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  table {
+    min-width: 400px;
+  }
+}

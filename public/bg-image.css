@@ -1,0 +1,8 @@
+body.bg-image {
+  background-image: url('/bg.jpg');
+  background-color: rgba(38,42,102,0.7);
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+  background-size: cover;
+  min-height: 100vh;
+}
