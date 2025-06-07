@@ -8,6 +8,13 @@ Bu proje, özel bir Minecraft sunucusu için hazırlanmış modern bir Next.js t
 - Galeri, destek, kullanıcı yönetimi ve daha fazlası
 - Modern ve mobil uyumlu arayüz
 
+## Gereksinimler
+
+   ```
+   Node.js
+   npm
+   ```
+
 ## Derleme ve Çalıştırma
 
 Derleme ve çalıştırmak için aşağıdaki adımları izleyin:
