@@ -103,3 +103,6 @@ Bu adımlar, eski build kalıntılarını ve önbellekleri temizleyerek tamamen 
 
 ## Katkı ve Lisans
 Bu proje özelleştirilmiş olup, topluluk katkılarına açıktır. Lisans ve detaylar için proje sahibine ulaşabilirsiniz.
+
+## Proje Raporu
+[Görüntülemek için tıklayınız](https://github.com/chatillon7/mc_next_auth_v1-release_1.0/blob/main/proje_raporu.pdf)
